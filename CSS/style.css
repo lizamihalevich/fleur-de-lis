@@ -148,6 +148,10 @@ ul.tags li a {
 	padding-top: 52px;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	z-index: 100;
+}
+
 .container_wr {
 	width: 85%;
 	margin: 0 auto;
